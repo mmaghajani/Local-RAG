@@ -1,0 +1,1 @@
+It is an example of local RAG project
